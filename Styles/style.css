@@ -1,0 +1,120 @@
+body{
+
+    background-color: #000000;
+
+}
+
+h1{
+
+    text-align: center;
+    font-family: 'Times New Roman';
+    font-size: 40px;
+    color: #00FF00;
+
+}
+
+h2{
+
+    text-align: center;
+    font-family: 'Times New Roman';
+    font-size: 25px;
+    color: #FF0000;
+
+}
+
+img{
+
+    width: 300px;
+
+}
+
+.Text{
+
+    text-align: center;
+    font-family: 'Times New Roman';
+    font-size: 15px;
+
+}
+
+.T_Justify{
+
+    text-align: justify;
+    font-family: 'Times New Roman';
+    font-size: 15px;
+
+}
+
+.T_White{
+
+    color:#FFFFFF;
+
+}
+
+.T_Green{
+
+    color:#00FF00;
+
+}
+
+.T_Pink{
+
+    color:#FF00FF;
+
+}
+
+.T_Cyan{
+
+    color:#00FFFF;
+
+}
+
+.T_Yellow{
+
+    color:#F1C40F;
+
+}
+
+.T_Purple{
+
+    color:#6C3483;
+
+}
+
+.T_Red{
+
+    color:#FF0000;
+
+}
+
+#Cuadro{
+
+    padding: 10px;
+    background-color: #FFFFFF;
+    
+}
+
+#Photo{
+
+    text-align: center;
+
+}
+
+#P_Center{
+
+    float: left;
+    padding: 0 30px 0 30px;
+
+}
+
+#P_Rigth{
+
+    padding: 0 30px 0 30px;
+
+}
+
+#P_Left{
+
+    padding: 0 30px 0 65px;
+	float: left;
+
+}
